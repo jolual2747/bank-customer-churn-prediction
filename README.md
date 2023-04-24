@@ -12,3 +12,5 @@ pip install pipenv
 pipenv shell
 pipenv install
 ```
+
+Note que en el repositorio existe un archivo Pipfile, el cual contiene las dependencias usadas, y al seguir los pasos anteriores se instalarán las dependencias necesarias.
